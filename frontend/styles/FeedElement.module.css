@@ -1,0 +1,19 @@
+.element {
+	display: flex;
+	flex-direction: column;
+	justify-content: flex-start;
+	align-items: flex-start;
+	margin-block: 2rem;
+	row-gap: 0.50rem;
+	border-top: 1px solid grey;
+}
+
+.element h2 {
+	padding-top: 1rem;
+}
+
+.element h3 {
+	color: gray;
+	font-weight: 400;
+	font-size: 1rem;
+}
